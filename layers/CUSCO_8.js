@@ -1,0 +1,1 @@
+var json_CUSCO_8 = {"type":"FeatureCollection","name":"CUSCO_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"CUSCO":"CUSCO"},"geometry":{"type":"Point","coordinates":[-72.348941612528492,-13.098168070259664]}}]}
